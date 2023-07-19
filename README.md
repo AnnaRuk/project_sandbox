@@ -15,3 +15,4 @@
 - Iryna Sainozhenko
 - Anna Bieliaieva
 - Aliona Matijevic
+- Andrei Bakhtinov
