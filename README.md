@@ -1,5 +1,6 @@
 # project_sandbox
 
+- Yuliia Tsaruk
 - Natalia Bodnaryuk
 - Nataliia Pohrebniak
 - Cristian Pasat
