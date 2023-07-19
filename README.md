@@ -1,3 +1,3 @@
 # project_sandbox
-- Orkhan Aliyev
+# - Orkhan Aliyev
 
