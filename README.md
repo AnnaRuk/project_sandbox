@@ -1,5 +1,6 @@
 # project_sandbox
 
+- Elena Sidanova
 - Aleksandra
 - Jurgita
 - Viktoriia Ustymova
