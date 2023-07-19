@@ -1,5 +1,6 @@
 # project_sandbox
 
+- Leonid Usatii
 - Yuliia Tsaruk
 - Natalia Bodnaryuk
 - Nataliia Pohrebniak
