@@ -1,5 +1,6 @@
 # project_sandbox
 
+- Aleksandra
 - Jurgita
 - Viktoriia Ustymova
 - Konstantin Glazunov
